@@ -16,7 +16,7 @@ I'm eager to take on new challenges and contribute my skills to a dynamic team o
 ## :construction_worker: :construction:`Sections below under construction`:construction:
 
 ## Projects
-1. [Representative testing project || MrBuggy3 | Guru99 Bank App | Swagger Pet Store](https://github.com/MalfiRG/Project1#representative-testing-project)
+* [Representative testing project || MrBuggy3 | Guru99 Bank App | Swagger Pet Store](https://github.com/MalfiRG/Project1#representative-testing-project)
 
 ## 🛠️ Tools
 * JIRA and Confluence
