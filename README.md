@@ -17,7 +17,7 @@ I'm eager to take on new challenges and contribute my skills to a dynamic team o
 You know that feeling when you keep digging and the hole just keeps getting deeper? That's what I did with this section.
 > ** Don't worry, there will be more to come soon!** :do_not_litter:
 
-## Projects
+## :open_file_folder: Projects
 * [Representative testing project || MrBuggy3 | Guru99 Bank App | Swagger Pet Store](https://github.com/MalfiRG/Project1#representative-testing-project)
 
 ## 🛠️ Tools
