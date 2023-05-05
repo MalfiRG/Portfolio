@@ -13,7 +13,9 @@ I'm a quick learner, constantly striving to expand my skillset. In my spare time
 
 I'm eager to take on new challenges and contribute my skills to a dynamic team of professionals. Let's work together to create cutting-edge software products that exceed our clients' expectations!
 
-## :construction_worker: :construction:`Sections below under construction`:construction:
+# :construction_worker: :construction: `Under development`:construction:
+You know that feeling when you keep digging and the hole just keeps getting deeper? That's what I did with this section.
+> ** Don't worry, there will be more to come soon!** :do_not_litter:
 
 ## Projects
 * [Representative testing project || MrBuggy3 | Guru99 Bank App | Swagger Pet Store](https://github.com/MalfiRG/Project1#representative-testing-project)
