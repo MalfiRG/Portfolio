@@ -22,7 +22,8 @@ You know that feeling when you keep digging and the hole just keeps getting deep
 
 ## 🛠️ Tools
 * JIRA and Confluence
-* TestRail 
+* TestRail
+* X-Ray 
 * Programming languages (Java, Python)
 * MySQL
 * Selenium WebDriver
@@ -30,16 +31,26 @@ You know that feeling when you keep digging and the hole just keeps getting deep
 * GIT 
 * Behavior-Driven Development (BDD)
 * Postman (REST API)
+* Swagger
 * DevTools
-* UAT
+* Microsoft Azure
 ## 👩‍💻 Tech skills
-* Test plans and test cases development 
+* Test design techniques
+* Test plan and test cases development 
 * SDLC
 * STLC
+* UAT
+* Test automation - _in progress_
+* Network Administration
+* Windows Administration
+    * Active Directory
+    * Network management
+    * Troubleshooting
 * ISTQB-CTFL knowledge
 * SQL
+* Java - _in progress_
+## Soft skills
 * SCRUM
-* Java - in progress
 ## 🥇 Certificates
 * ISTQB-CTFL
 * Software Tester - Software Development Academy
