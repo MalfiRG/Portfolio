@@ -59,22 +59,45 @@ You know that feeling when you keep digging and the hole just keeps getting deep
 ![Wireshark](https://img.shields.io/badge/Wireshark-0A1A2F?style=flat&logo=Wireshark&logoColor=1679A7)
 
 ## 👩‍💻 Tech skills
-* Test design techniques
-* Test plan and test cases development 
-* SDLC
-* STLC
-* UAT
-* Test automation - _in progress_
-* Network Administration
-* Windows Administration
-    * Active Directory
-    * Network management
-    * Troubleshooting
-* ISTQB-CTFL knowledge
-* SQL
-* Java - _in progress_
+##### Test management and execution
+![Test design techniques](https://img.shields.io/badge/-Test%20design%20techniques-377D48?style=flat-square&logo=Test%20design%20techniques&logoColor=00cc00)
+![Test plan and test cases development](https://img.shields.io/badge/-Test%20plan%20and%20test%20cases%20development-377D48?style=flat-square&logo=Test%20plan%20and%20test%20cases%20development&logoColor=00cc00)
+![Software Development Life Cycle](https://img.shields.io/badge/-Software%20Development%20Life%20Cycle-377D48?style=flat-square&logo=Software%20Development%20Life%20Cycle&logoColor=00cc00)
+![Software Testing Life Cycle](https://img.shields.io/badge/-Software%20Testing%20Life%20Cycle-377D48?style=flat-square&logo=Software%20Testing%20Life%20Cycle&logoColor=00cc00)
+![UAT](https://img.shields.io/badge/-User%20Acceptance%20Testing-377D48?style=flat-square&logo=User%20Acceptance%20Testing&logoColor=00cc00)
+![ISTQB-CTFL knowledge](https://img.shields.io/badge/-ISTQB--CTFL%20knowledge-377D48?style=flat-square&logo=ISTQB-CTFL%20knowledge&logoColor=FFFFFF)
+
+##### Automation Skills
+![Test automation](https://img.shields.io/badge/-Test%20automation-2F917F?style=flat-square&logo=Test%20automation&logoColor=FFFFFF)
+![Website automation](https://img.shields.io/badge/-Website%20automation-2F917F?style=flat-square&logo=Website%20automation&logoColor=FFFFFF)
+![Mobile automation](https://img.shields.io/badge/-Mobile%20automation-2F917F?style=flat-square&logo=Mobile%20automation&logoColor=FFFFFF)
+
+##### System Administration Skills
+![Network Administration](https://img.shields.io/badge/-Network%20Administration-752223?style=flat-square&logo=Network%20Administration&logoColor=FFFFFF)
+
+![Windows Administration](https://img.shields.io/badge/-Windows%20Administration-752223?style=flat-square&logo=Windows%20Administration&logoColor=FFFFFF)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-C27D44?style=flat-square&logo=Active%20Directory&logoColor=FFFFFF)
+![Network management](https://img.shields.io/badge/-Network%20management-C27D44?style=flat-square&logo=Network%20management&logoColor=FFFFFF)
+![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-C27D44?style=flat-square&logo=Troubleshooting&logoColor=FFFFFF)
+
+##### Programming Skills
+![SQL](https://img.shields.io/badge/-SQL-222975?style=flat-square&logo=SQL&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/-Java-222975?style=flat-square&logo=Java&logoColor=FFFFFF)
+
+
 ## Soft skills
-* SCRUM
+##### Collaboration skills
+![Scrum](https://img.shields.io/badge/-Scrum-615C1C?style=flat-square&logo=Scrum&logoColor=303030)
+![Attention to detail](https://img.shields.io/badge/-Attention%20to%20detail-615C1C?style=flat-square&logo=Attention%20to%20detail&logoColor=303030)
+![Teamwork](https://img.shields.io/badge/-Teamwork-615C1C?style=flat-square&logo=Teamwork&logoColor=303030)
+![Communication skills](https://img.shields.io/badge/-Communication%20skills-615C1C?style=flat-square&logo=Communication%20skills&logoColor=303030)
+![Proactivity](https://img.shields.io/badge/-Proactivity-615C1C?style=flat-square&logo=Proactivity&logoColor=303030)
+
+##### Cognitive Skills
+![Analytical and lateral thinking](https://img.shields.io/badge/-Analytical%20and%20lateral%20thinking-1C4761?style=flat-square&logo=Analytical%20and%20lateral%20thinking&logoColor=303030)
+![Quick learning](https://img.shields.io/badge/-Quick%20learning-1C4761?style=flat-square&logo=Quick%20learning&logoColor=303030)
+![Problem-solving](https://img.shields.io/badge/-Problem--solving-1C4761?style=flat-square&logo=Problem-solving&logoColor=303030)
+
 ## 🥇 Certificates
 * ISTQB-CTFL
 * Software Tester - Software Development Academy
