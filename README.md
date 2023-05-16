@@ -13,6 +13,12 @@ I'm a quick learner, constantly striving to expand my skillset. In my spare time
 
 I'm eager to take on new challenges and contribute my skills to a dynamic team of professionals. Let's work together to create cutting-edge software products that exceed our clients' expectations!
 
+##### In my leisure time, I enjoy the following:
+- Playing the guitar :guitar: 
+- Travelling :airplane:
+- Creating stunning landscape and portrait photos :camera: [Check out my photographic portfolio!](https://gurushots.com/petertara00/photos)
+- Caring for my beloved rabbit, Jupik :rabbit2:
+
 ## :open_file_folder: Projects
 * [Representative testing project || MrBuggy3 | Guru99 Bank App | Swagger Pet Store](https://github.com/MalfiRG/Project1#representative-testing-project)
 
