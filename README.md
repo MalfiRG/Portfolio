@@ -13,10 +13,6 @@ I'm a quick learner, constantly striving to expand my skillset. In my spare time
 
 I'm eager to take on new challenges and contribute my skills to a dynamic team of professionals. Let's work together to create cutting-edge software products that exceed our clients' expectations!
 
-# :construction_worker: :construction: `Under development`:construction:
-You know that feeling when you keep digging and the hole just keeps getting deeper? That's what I did with this section.
-> ** Don't worry, there will be more to come soon!** :do_not_litter:
-
 ## :open_file_folder: Projects
 * [Representative testing project || MrBuggy3 | Guru99 Bank App | Swagger Pet Store](https://github.com/MalfiRG/Project1#representative-testing-project)
 
@@ -99,11 +95,27 @@ You know that feeling when you keep digging and the hole just keeps getting deep
 ![Problem-solving](https://img.shields.io/badge/-Problem--solving-1C4761?style=flat-square&logo=Problem-solving&logoColor=303030)
 
 ## 🥇 Certificates
-* ISTQB-CTFL
-* Software Tester - Software Development Academy
+- ISTQB® Certified Tester Foundation Level - [Link](http://scr.istqb.org/?name=Tarach&number=&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=&resultsPerPage=10)
+- Software Tester (Software Development Academy) - [Link](https://app.diplomasafe.com/pl-PL/diploma/d228a58d53b5e851c6d1b68edab384cb19c8594d2/tester-oprogramowania)
+- Understanding Manual Testing (LinkedIn Learning) - [Link](https://www.linkedin.com/learning/certificates/cecccb15a2d8c5fc8535ebb1015712fb53ae731425e702c91b3c0d1afa624986)
+- Networking Foundations: Networking Basics (LinkedIn Learning) - [Link](https://www.linkedin.com/learning/certificates/670802eec6d695c4cb6c775c7f94cb25c79687bf5eb92749bbbde6ec6836e432?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQm%2FI%2FRsMSUe1XGmgkK0WaQ%3D%3D)
+- Programming Foundations: Software Testing/QA (LinkedIn Learning) - [Link](https://www.linkedin.com/learning/certificates/58dd9e9f16a5e908840c23bee1ee812172abaa864f9f7695adbaf7c51c4808f1)
+- Test Automation Foundations (LinkedIn Learning) - [Link](https://www.linkedin.com/learning/certificates/103812743d0625320be4876a0eafd59dbeb94f204a941d1a8d88f2285e9edadd)
 ## 🖋️Courses
-* Software Tester course in SD Academy
+- Software Tester Course in Software Development Academy (11.2022 - 04.2023)
+    - Introduction to Testing
+    - Test Design Techniques
+    - Testing Tools (TestRail, Jira, Confluence, Selenium, DevTools, Swagger, Postman)
+    - Testing applications and websites (SPA, MPA)
+    - Scrum Methodology
+    - Programming in Java
+    - Selenium WebDriver
+    - Testing in BDD Methodology (Gherkin, Cucumber)
+    - Basics of Databases - MySQL
 
+# :construction_worker: :construction: `Under development`:construction:
+You know that feeling when you keep digging and the hole just keeps getting deeper? That's what I did with this section.
+> ** Don't worry, there will be more to come soon!** :do_not_litter:
 
 ## 📚 Books
 *
