@@ -107,6 +107,7 @@ I'm eager to take on new challenges and contribute my skills to a dynamic team o
 - Networking Foundations: Networking Basics (LinkedIn Learning) - [Link](https://www.linkedin.com/learning/certificates/670802eec6d695c4cb6c775c7f94cb25c79687bf5eb92749bbbde6ec6836e432?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQm%2FI%2FRsMSUe1XGmgkK0WaQ%3D%3D)
 - Programming Foundations: Software Testing/QA (LinkedIn Learning) - [Link](https://www.linkedin.com/learning/certificates/58dd9e9f16a5e908840c23bee1ee812172abaa864f9f7695adbaf7c51c4808f1)
 - Test Automation Foundations (LinkedIn Learning) - [Link](https://www.linkedin.com/learning/certificates/103812743d0625320be4876a0eafd59dbeb94f204a941d1a8d88f2285e9edadd)
+- Learning Selenium (LinkedIn Learning) - [Link](https://www.linkedin.com/learning/certificates/36add9d2431731ec4e2673d4e2446c0faf6151be6463bc394659c7725296546a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B3RFMZb70SwCbeDSLTdakfw%3D%3D)
 ## 🖋️Courses
 - Software Tester Course in Software Development Academy (11.2022 - 04.2023)
     - Introduction to Testing
