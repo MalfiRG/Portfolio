@@ -121,6 +121,15 @@ I'm eager to take on new challenges and contribute my skills to a dynamic team o
     - Testing in BDD Methodology (Gherkin, Cucumber)
     - Basics of Databases - MySQL
 
+## 💭 Recomended blogs
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Software Testing Help](https://www.softwaretestinghelp.com/)
+- [Awesome Testing](https://www.awesome-testing.com/)
+- [testerzy.pl](https://testerzy.pl/)
+- [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
+- [jaktestowac.pl](https://jaktestowac.pl/)
+
+<!--
 # :construction_worker: :construction: `Under development`:construction:
 You know that feeling when you keep digging and the hole just keeps getting deeper? That's what I did with this section.
 > ** Don't worry, there will be more to come soon!** :do_not_litter:
@@ -129,8 +138,8 @@ You know that feeling when you keep digging and the hole just keeps getting deep
 *
 ## 💻 Groups on Facebook
 *
-## 💭 Recomended blogs
-* 
+
 ## 👍Webinars
 ## 📑My Test Documentation
 *
+-->
