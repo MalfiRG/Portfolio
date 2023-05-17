@@ -125,9 +125,9 @@ I'm eager to take on new challenges and contribute my skills to a dynamic team o
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Software Testing Help](https://www.softwaretestinghelp.com/)
 - [Awesome Testing](https://www.awesome-testing.com/)
-- [testerzy.pl](https://testerzy.pl/)
-- [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
-- [jaktestowac.pl](https://jaktestowac.pl/)
+- [Testerzy.pl](https://testerzy.pl/)
+- [Wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
+- [Jaktestowac.pl](https://jaktestowac.pl/)
 
 <!--
 # :construction_worker: :construction: `Under development`:construction:
