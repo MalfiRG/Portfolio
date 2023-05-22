@@ -63,12 +63,12 @@ I'm eager to take on new challenges and contribute my skills to a dynamic team o
 
 ## 👩‍💻 Tech skills
 ##### Test management and execution
-![Test design techniques](https://img.shields.io/badge/-Test%20design%20techniques-377D48?style=flat-square&logo=Test%20design%20techniques&logoColor=00cc00)
-![Test plan and test cases development](https://img.shields.io/badge/-Test%20plan%20and%20test%20cases%20development-377D48?style=flat-square&logo=Test%20plan%20and%20test%20cases%20development&logoColor=00cc00)
-![Software Development Life Cycle](https://img.shields.io/badge/-Software%20Development%20Life%20Cycle-377D48?style=flat-square&logo=Software%20Development%20Life%20Cycle&logoColor=00cc00)
-![Software Testing Life Cycle](https://img.shields.io/badge/-Software%20Testing%20Life%20Cycle-377D48?style=flat-square&logo=Software%20Testing%20Life%20Cycle&logoColor=00cc00)
-![UAT](https://img.shields.io/badge/-User%20Acceptance%20Testing-377D48?style=flat-square&logo=User%20Acceptance%20Testing&logoColor=00cc00)
-![ISTQB-CTFL knowledge](https://img.shields.io/badge/-ISTQB--CTFL%20knowledge-377D48?style=flat-square&logo=ISTQB-CTFL%20knowledge&logoColor=FFFFFF)
+![Test design techniques](https://img.shields.io/badge/-Test%20design%20techniques-538d62?style=flat-square&logo=Test%20design%20techniques&logoColor=00cc00)
+![Test plan and test cases development](https://img.shields.io/badge/-Test%20plan%20and%20test%20cases%20development-538d62?style=flat-square&logo=Test%20plan%20and%20test%20cases%20development&logoColor=00cc00)
+![Software Development Life Cycle](https://img.shields.io/badge/-Software%20Development%20Life%20Cycle-538d62?style=flat-square&logo=Software%20Development%20Life%20Cycle&logoColor=00cc00)
+![Software Testing Life Cycle](https://img.shields.io/badge/-Software%20Testing%20Life%20Cycle-538d62?style=flat-square&logo=Software%20Testing%20Life%20Cycle&logoColor=00cc00)
+![UAT](https://img.shields.io/badge/-User%20Acceptance%20Testing-538d62?style=flat-square&logo=User%20Acceptance%20Testing&logoColor=00cc00)
+![ISTQB-CTFL knowledge](https://img.shields.io/badge/-ISTQB--CTFL%20knowledge-538d62?style=flat-square&logo=ISTQB-CTFL%20knowledge&logoColor=FFFFFF)
 
 ##### Automation Skills
 ![Test automation](https://img.shields.io/badge/-Test%20automation-2F917F?style=flat-square&logo=Test%20automation&logoColor=FFFFFF)
@@ -79,9 +79,9 @@ I'm eager to take on new challenges and contribute my skills to a dynamic team o
 ![Network Administration](https://img.shields.io/badge/-Network%20Administration-752223?style=flat-square&logo=Network%20Administration&logoColor=FFFFFF)
 
 ![Windows Administration](https://img.shields.io/badge/-Windows%20Administration-752223?style=flat-square&logo=Windows%20Administration&logoColor=FFFFFF)
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-C27D44?style=flat-square&logo=Active%20Directory&logoColor=FFFFFF)
-![Network management](https://img.shields.io/badge/-Network%20management-C27D44?style=flat-square&logo=Network%20management&logoColor=FFFFFF)
-![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-C27D44?style=flat-square&logo=Troubleshooting&logoColor=FFFFFF)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-9b5f60?style=flat-square&logo=Active%20Directory&logoColor=FFFFFF)
+![Network management](https://img.shields.io/badge/-Network%20management-9b5f60?style=flat-square&logo=Network%20management&logoColor=FFFFFF)
+![Troubleshooting](https://img.shields.io/badge/-Troubleshooting-9b5f60?style=flat-square&logo=Troubleshooting&logoColor=FFFFFF)
 
 ##### Programming Skills
 ![SQL](https://img.shields.io/badge/-SQL-222975?style=flat-square&logo=SQL&logoColor=FFFFFF)
